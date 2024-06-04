@@ -56,7 +56,7 @@ On github, go to https://github.com/n-west/bl-git-intro and "fork" this reposito
 Your Github account now owns a copy. You should be able to **clone** this to your local system (or Berkeley datacenter)
 
 ```
-git clone git@github.com/$YOURGITHUB/bl-git-intro
+git clone git@github.com:$YOURGITHUB/bl-git-intro
 ```
 
 ---
